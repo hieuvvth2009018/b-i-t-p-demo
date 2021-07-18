@@ -75,6 +75,10 @@
     <link rel="stylesheet" href="/asset/css/style.css">
     <!-- responsive CSS
 		============================================ -->
+    <!-- datapicker CSS
+       ============================================ -->
+    <link rel="stylesheet" href="/asset/css/datapicker/datepicker3.css">
+
     <link rel="stylesheet" href="/asset/css/responsive.css">
     <!-- modernizr JS
 		============================================ -->

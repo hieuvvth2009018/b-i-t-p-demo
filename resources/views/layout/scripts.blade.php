@@ -64,6 +64,10 @@
 <script src="/asset/js/icheck/icheck-active.js"></script>
 <!-- plugins JS
     ============================================ -->
+<!-- datapicker JS
+		============================================ -->
+<script src="/asset/js/datapicker/bootstrap-datepicker.js"></script>
+<script src="/asset/js/datapicker/datepicker-active.js"></script>
 <script src="/asset/js/plugins.js"></script>
 <!-- main JS
     ============================================ -->
